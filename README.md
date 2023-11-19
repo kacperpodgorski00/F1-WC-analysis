@@ -65,32 +65,54 @@ The objective of this project was to conduct a comprehensive analysis of Formula
 1.1. Analyzing the age of drivers at the time of debut and at 
 the time of first win in Grand Prix.
 
+![1 1](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/d73ebe9e-377b-4bad-90f2-8236e1572ec8)
+
+![1 1_scatt](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/2699edf1-ca7e-484b-8f0b-7ad0b7038058)
+
+![1 1_kde](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/6739801c-82a5-4673-a339-a503f4f62dca)
+
 1.2. Analyzing the average age of drivers in various periods 
 between 1950 and 2023.
 
+![1 2](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/ff9a53ae-9463-4e27-aa15-aceea397975a)
+
+![1 2_bar](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/dcf05340-b5f3-41ae-a656-d63dae39b4c5)
 
 #### 2. Drivers from different countries
 
 2.1. Analyzing the achievements of drivers from different countries.
 
-2.2. Identifying the dominant nationalities in Formula 1.
+![2 1](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/aad1fb27-4a37-45b0-9d53-d0cbfa3c494c)
+
+![2 1_bar](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/f673a483-bca2-4593-a235-83639a4865c4)
+
+![2 1_bar2](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/ee470bb1-7e64-4863-a799-cf15b4c4c741)
 
 #### 3. Analysis of driver's careers
 
 3.1. Analyzing the length of driver's careers in Formula 1.
 
+![3 1](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/56389ada-1ecf-4adb-ac3a-faaf3e246fb3)
+
+![3 1_bar](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/427fef9f-9ae5-495d-b859-017be774bee8)
+
 3.2. Identification of drivers who have spent their entire 
 career with one team.
+
+![3 2](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/862bcc2f-679c-481b-86a6-126f16871af5)
 
 #### 4. Multiple champion drivers
 
 4.1. Analysis of drivers who have won the Formula 1 championship 
 more than once.
 
+![4 1](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/e4372996-a8db-4338-805c-12961836bc2b)
+
 #### 5. Team changes
 
 5.1. The impact of changing teams on driver's mean points 
 results per race.
 
+![5 1](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/fed7c284-b284-41e1-a7a8-b71ee9ce42fb)
 
-### 3. Data Visualization: I created some data visualizations that aided in a better understanding of the presented information.
+
