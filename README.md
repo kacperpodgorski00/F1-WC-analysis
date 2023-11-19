@@ -1,7 +1,6 @@
-Template
-==============================
+# Unveiling the World of Formula 1 Through Numbers [Project in progress]
 
-A template for future data analyst python projects.
+This project is a result of my passion for data analysis and fascination with the world of Formula 1 and is still being developed. For now only some aspects of this prestigious sport are encompassed - race results, driver data and teams. Dataset comes from Kaggle platform.
 
 Project Organization
 ------------
@@ -52,6 +51,12 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
+## Project Goals:
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+The objective of this project was to conduct a comprehensive analysis of Formula 1 data to identify trends, patterns, and intriguing insights related to the history of this sport. It also aimed to utilize Python programming skills and data analysis tools to create a comprehensive visual and cognitive analysis.
+
+## Project Phases:
+
+1. Driver and Team Analysis: I focused on analyzing the achievements of drivers and teams to identify dominant figures and brands in different periods.
+
+2. Data Visualization: I created some data visualizations that aided in a better understanding of the presented information.
