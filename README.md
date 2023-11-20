@@ -1,3 +1,5 @@
+![cars](https://github.com/kacperpodgorski00/F1-WC-analysis/assets/73601611/b2cdcd17-42ed-454e-b01d-4e4ac310e89c)
+
 # Unveiling the World of Formula 1 Through Numbers [Project in progress]
 
 This project is a result of my passion for data analysis and fascination with the world of Formula 1 and is still being developed. For now only some aspects of this prestigious sport are encompassed - race results, driver data and teams. Dataset comes from Kaggle platform - https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020.
